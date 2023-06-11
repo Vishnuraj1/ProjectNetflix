@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/ProjectNetflix/static/css/main.170c0897.css",
-    "main.js": "/ProjectNetflix/static/js/main.0e304693.js",
+    "main.css": "/ProjectNetflix/static/css/main.a4dc1d45.css",
+    "main.js": "/ProjectNetflix/static/js/main.2dc751ac.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ProjectNetflix/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/ProjectNetflix/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ProjectNetflix/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ProjectNetflix/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ProjectNetflix/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/ProjectNetflix/index.html",
-    "main.170c0897.css.map": "/ProjectNetflix/static/css/main.170c0897.css.map",
-    "main.0e304693.js.map": "/ProjectNetflix/static/js/main.0e304693.js.map"
+    "main.a4dc1d45.css.map": "/ProjectNetflix/static/css/main.a4dc1d45.css.map",
+    "main.2dc751ac.js.map": "/ProjectNetflix/static/js/main.2dc751ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.170c0897.css",
-    "static/js/main.0e304693.js"
+    "static/css/main.a4dc1d45.css",
+    "static/js/main.2dc751ac.js"
   ]
 }
